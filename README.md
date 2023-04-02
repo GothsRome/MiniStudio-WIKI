@@ -1,9 +1,9 @@
 # MiniStudio-WIKI
 [MiniStudio官方维基百科网站](https://studio.miniworldgame.com/wiki/)内容的搬运/镜像/备份，以备不时之需和方便GITHUB上的创作者。
-<br/><br/>请点击进入GITHUB上真正的[维基首页](https://github.com/GothsRome/MiniStudio-WIKI/概述)。
+<br/><br/>请点击进入GITHUB上真正的[维基首页](https://github.com/GothsRome/MiniStudio-WIKI/wiki/%E6%A6%82%E8%BF%B0)。
 
 ## 官方最近编辑本页时间
-**2023/3/2 15:58:02**
+**2023/3/2 23:02:35**
 
 
 # 关于 MiniStudio
