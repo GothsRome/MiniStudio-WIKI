@@ -1,5 +1,5 @@
 # MiniStudio-WIKI
-[MiniStudio官方维基百科网站](http://studio.ts8zs.com/wiki/Tutorials/Introduce/AboutMiniStudio.html)内容的搬运/镜像/备份，以备不时之需和方便GITHUB上的创作者。
+[MiniStudio官方维基百科网站](https://studio.miniworldgame.com/wiki/)内容的搬运/镜像/备份，以备不时之需和方便GITHUB上的创作者。
 <br/><br/>请点击进入GITHUB上真正的[维基首页](https://github.com/GothsRome/MiniStudio-WIKI/概述)。
 
 ## 官方最近编辑本页时间
